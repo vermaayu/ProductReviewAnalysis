@@ -1,5 +1,6 @@
 # ProductReviewAnalysis
 Product Review Analysis using NLP
+(Project in final project folder)
 The objective of this project is to analyze the reviews on a product and represent them in a
 compact form to facilitate the process of checking out reviews for users to know the quality
 and features of a product. Two approaches namely dictionary-based approach and machine
