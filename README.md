@@ -1,69 +1,21 @@
 # ProductReviewAnalysis
-Product Review Analysis using NLP
-(Project in final project folder)
-The objective of this project is to analyze the reviews on a product and represent them in a
-compact form to facilitate the process of checking out reviews for users to know the quality
-and features of a product. Two approaches namely dictionary-based approach and machine
-learning approach are used to get a better accuracy. The sub-objectives incidental to the main
-objective are:
-* Scrapping product reviews on websites featuring a product specifically amazon.com.
-* Analyze and categorize review data.
-* Categorization or classification of reviews into-
-* Positive
-* Negative
-* Graphical representation of proportion of positive to negative reviews
+The main objective of this project is to analyze a large set of reviews of a product by two approaches, namely, dictionary-based approach and machine learning approach (using **Logistic Regression and n-grams**) and also to understand the concepts of NLP (Natural Language Processing) better. The sub-objectives incidental to the main objective are:
+* Understanding a large set of customer reviews in a glance.
+* Categorize review data.
+* Categorization or classification of reviews into:
+  * Positive
+  * Negative
+* Graphical representation of proportion of positive to negative reviews.
+* Word cloud of categorized keywords for a better understanding of the reviews.
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Prerequisites
 
-### Prerequisites
+* Knowledge of Python programming language.
+* Concepts of ML.
+* Concepts of Statistics.
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Built With
+## Run With
 
 * [Jupyter Notebook](https://jupyter.org/) - The web-based application for python compilation and execution.
 
@@ -80,6 +32,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+'Needs to be updated.'
