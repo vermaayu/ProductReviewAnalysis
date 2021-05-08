@@ -19,13 +19,6 @@ The main objective of this project is to analyze a large set of reviews of a pro
 
 * [Jupyter Notebook](https://jupyter.org/) - The web-based application for python compilation and execution.
 
-## Authors
-
-* [**Aayush Verma**](https://github.com/vermaayu)
-* [**Komal Makkar**](https://github.com/Makkomal)
-* **Lavanya Mishra**
-* **Tejal Ranjan**
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/vermaayu/ProductReviewAnalysis/blob/master/LICENSE) file for details
